@@ -117,10 +117,9 @@ UqarMDD/
 |---|---|---|
 | 1 — Préparation | 15–25 min | Accueil, consentement, pose des électrodes EEG/ECG/EMG, calibration Kinect, mise en palce d'une des conditions (avec ou sans son, avec ou sans lumière tamisée) |
 | 2 — Questionnaire pré-acquisition | ~5 min | Auto-évaluation subjective de la somnolence (KSS) |
-| 3 — Ligne de base (optionnel) | 2–5 min | Repos assis, yeux ouverts puis fermés |
-| 4 — Tâche PVT | ~10 min | Acquisition multimodale continue (physiologie + vidéo + task) |
-| 5 - Tâche monotone | 30-35 min | Simulation d'une somnolence, auto-évaluation subjective de la somnolence (KSS) toutes les 10 min |
-| 6 — KSS final (optionnel) | ~2 min | Ré-évaluation subjective post-tâche |
+| 3 — Ligne de base (optionnel) | 2–5 min | Repos assis, yeux ouverts puis fermés regarde les signaux et si les electrodes sont bien instalées |
+| 4 — Tâche PVT | ~15 min | Acquisition multimodale continue (physiologie + vidéo + task) |
+| 5 — KSS final (optionnel) | ~2 min | Ré-évaluation subjective post-tâche |
 | Fin | — | Retrait des électrodes, sauvegarde, fiche de session |
 
 ### Tâche PVT (OpenSesame)
@@ -132,9 +131,6 @@ Un stimulus visuel (visage schématique orienté à droite ou à gauche) est pr�
 
 **Variables cognitives collectées :** temps de réaction, lapses, omissions, commissions, précision, variabilité intra-session.
 
-### Tâche monotone !!!!!
-
-- Lecture d'une vidéo monotone d'une durée de 30 min afin de simuler une fatigue, une somnolence. La vidéo retenue est celle d'une voiture en pleine la circulation du point de vu d'un conducteur.
 ---
 
 ## Convention de nommage des fichiers
